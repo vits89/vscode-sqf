@@ -1,5 +1,13 @@
 # SQF for VS Code change Log
 
+## 0.21.1
+
+- Fixed: description fixes
+
+## 0.21.0
+
+- Added: commands from v2.22
+
 ## 0.19.0
 
 - Added: commands from v2.20
